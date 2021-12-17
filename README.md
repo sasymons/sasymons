@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasymons
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning c#,react,
+- 🌱 I’m currently learning C#,React,Javascript,HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
